@@ -1,9 +1,4 @@
-/**
- * @program: furniturefactory
- * @description: TODO
- * @author: guoyang
- * @create: 2025-03-16 15:00
- */
+
 public class BridgePatternTest {
 
     public static void main(String[] args) {
