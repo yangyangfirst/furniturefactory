@@ -1,5 +1,4 @@
 
-
 // Concrete Implementor 1: Wood Material
 public class Wood implements Material{
     @Override
